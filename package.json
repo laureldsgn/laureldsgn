@@ -1,0 +1,19 @@
+{
+  "name": "laureldsgn-website",
+  "version": "1.0.0",
+  "description": "My hunky-dory Nuxt.js project",
+  "author": "laurel",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "semver": "^7.1.3",
+    "uglify-js": "^2.8.29"
+  },
+  "devDependencies": {}
+}
